@@ -1,0 +1,4 @@
+direction	row	genes	n_genes	columns (per-gene counts)
+up	1	PAX6	1	AST_mdTN: PAX6=1
+down	1	PAX6	1	MBN_MB: PAX6=1; AST_IPP: PAX6=1
+down	2	ASCL1	1	EXC_M1: ASCL1=1

@@ -1,0 +1,4 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	EZH1	1	BC_0: EZH1=1; BC_1: EZH1=1; BC_5: EZH1=1; BC_9: EZH1=1
+up	2	KDM6A	1	BC_3: KDM6A=1
+up	3	SUZ12	1	BC_10: SUZ12=1

@@ -1,0 +1,62 @@
+category|gene|ensembl_id|alias_role|source
+PRC2 core|EZH1|ENSMMUG00000006093|PRC2 methyltransferase (neurons)|Main
+PRC2 core|EZH2|ENSMMUG00000013494|PRC2 methyltransferase|Main
+PRC2 core|EED|ENSMMUG00000019621|PRC2 structural core subunit|Ours
+PRC2 core|SUZ12|ENSMMUG00000001116|PRC2 structural core subunit|Main
+Chromatin partners / opposers|KDM1A|ENSMMUG00000009773|LSD1, H3K4 demethylase|Main
+Chromatin partners / opposers|KDM6A|ENSMMUG00000003317|UTX, H3K27me3 demethylase|Main
+Chromatin partners / opposers|KDM6B|ENSMMUG00000008173|JMJD3, H3K27me3 demethylase|Main
+Chromatin partners / opposers|EHMT1|ENSMMUG00000019613|GLP, H3K9 methyltransferase|Main
+Chromatin partners / opposers|EHMT2|ENSMMUG00000011679|G9a, H3K9 methyltransferase|Main
+Chromatin partners / opposers|DOT1L|ENSMMUG00000010107|H3K79 methyltransferase|Main
+Chromatin partners / opposers|KMT2D|ENSMMUG00000015718|MLL4, H3K4 methyltransferase|Ref
+Chromatin partners / opposers|MEN1|ENSMMUG00000031160|menin, MLL partner|Main
+Chromatin partners / opposers|DNMT1|ENSMMUG00000014604|DNA methylation maintenance|Main
+Chromatin partners / opposers|HDAC1|ENSMMUG00000009948|histone deacetylase|Main
+Chromatin partners / opposers|USP7|ENSMMUG00000047388|deubiquitinase|Main
+Chromatin partners / opposers|CTCF|ENSMMUG00000009798|insulator protein|Ref
+Chromatin partners / opposers|LMNB1|ENSMMUG00000000823|lamin B1|Ref
+SWI/SNF (BAF) remodeling|SMARCA4|ENSMMUG00000012042|BRG1, BAF ATPase|Ours
+SWI/SNF (BAF) remodeling|SMARCA2|ENSMMUG00000015279|BRM, BAF ATPase|Ours
+SWI/SNF (BAF) remodeling|SMARCB1|ENSMMUG00000009098|BAF47|Ours
+SWI/SNF (BAF) remodeling|SMARCC1|ENSMMUG00000009345|BAF155|Ours
+SWI/SNF (BAF) remodeling|SMARCC2|ENSMMUG00000008273|BAF170|Ours
+SWI/SNF (BAF) remodeling|SMARCD1|ENSMMUG00000006531|BAF60A|Ours
+SWI/SNF (BAF) remodeling|SMARCD3|ENSMMUG00000006687|BAF60C|Ours
+SWI/SNF (BAF) remodeling|ARID1A|ENSMMUG00000012697|BAF250A|Ours
+SWI/SNF (BAF) remodeling|ARID1B|ENSMMUG00000002270|BAF250B|Ours
+SWI/SNF (BAF) remodeling|ARID2|ENSMMUG00000015962|PBAF subunit|Ours
+SWI/SNF (BAF) remodeling|PBRM1|ENSMMUG00000017361|BAF180, PBAF subunit|Ours
+nBAF (neuron-specific)|ACTL6B|ENSMMUG00000007461|BAF53b|Ours
+nBAF (neuron-specific)|SS18L1|ENSMMUG00000012606|CREST|Ours
+ISWI remodeling|SMARCA5|ENSMMUG00000000829|SNF2H, ISWI ATPase|Ours
+ISWI remodeling|SMARCA1|ENSMMUG00000008818|SNF2L, ISWI ATPase|Ours
+ISWI remodeling|BAZ1A|ENSMMUG00000058073|ACF complex|Ours
+ISWI remodeling|BAZ1B|ENSMMUG00000014270|WICH complex|Ours
+ISWI remodeling|BPTF|ENSMMUG00000009734|NURF complex|Ours
+ISWI remodeling|RSF1|ENSMMUG00000017355|RSF complex|Ours
+ISWI remodeling|CECR2|ENSMMUG00000006731|CERF complex|Ours
+REST / beta-catenin axis|REST|ENSMMUG00000018821|NRSF|Main
+REST / beta-catenin axis|RCOR1|ENSMMUG00000005845|CoREST|Main
+REST / beta-catenin axis|CTNNB1|ENSMMUG00000014627|beta-catenin|Main
+REST / beta-catenin axis|GSK3B|ENSMMUG00000001980|kinase|Main
+REST / beta-catenin axis|MAPT|ENSMMUG00000004122|tau|Main
+Senescence / longevity|CDKN1A|ENSMMUG00000055964|p21|Main
+Senescence / longevity|CDKN2B|ENSMMUG00000001134|p15|Main
+Senescence / longevity|KL|ENSMMUG00000017048|Klotho|Main
+Senescence / longevity|BDNF|ENSMMUG00000008634|neurotrophin|Main
+Lineage TFs (PRC2 targets)|PAX6|ENSMMUG00000016810|neural TF|Main
+Lineage TFs (PRC2 targets)|ASCL1|ENSMMUG00000005747|neural TF|Main
+Lineage TFs (PRC2 targets)|NEUROG2|ENSMMUG00000014078|NGN2, neural TF|Main
+Lineage TFs (PRC2 targets)|CDX2|ENSMMUG00000052070|intestinal TF|Main
+Lineage TFs (PRC2 targets)|HNF4A|ENSMMUG00000006464|liver/intestine TF|Main
+Lineage TFs (PRC2 targets)|MYOD1|ENSMMUG00000006400|muscle TF|Ref
+Lineage TFs (PRC2 targets)|FOXA1|ENSMMUG00000056013|endoderm TF|Ref
+Metabolism / stress / signaling|MTOR|ENSMMUG00000019325|nutrient sensing|Main
+Metabolism / stress / signaling|ACLY|ENSMMUG00000018931|acetyl-CoA synthesis|Main
+Metabolism / stress / signaling|ATF4|ENSMMUG00000055780|integrated stress response TF|Ref
+Metabolism / stress / signaling|AHR|ENSMMUG00000012203|aryl hydrocarbon receptor (no symbol in h5ad)|Ref
+Metabolism / stress / signaling|TGFB1|ENSMMUG00000008142|TGF-beta|Ref
+Metabolism / stress / signaling|CGAS|ENSMMUG00000019606|cytosolic DNA sensing|Ref
+Metabolism / stress / signaling|STING1|ENSMMUG00000012048|cytosolic DNA sensing|Ref
+Metabolism / stress / signaling|POMC|ENSMMUG00000055135|hypothalamic peptide|Ref

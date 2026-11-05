@@ -1,0 +1,4 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	EZH1	1	lCb | 0: EZH1=1; lCb | 1: EZH1=1; lCb | 5: EZH1=1; lCb | 9: EZH1=1
+up	2	KDM6A	1	lCb | 3: KDM6A=1
+up	3	SUZ12	1	lCb | 10: SUZ12=1

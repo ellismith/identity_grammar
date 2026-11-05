@@ -1,0 +1,6 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	UTY	1	CN | 3: UTY=1; CN | 4: UTY=1; CN | 10: UTY=1; CN | 13: UTY=1; CN | 16: UTY=1; CN | 17: UTY=1; NAc | 1: UTY=1; NAc | 2: UTY=1; NAc | 8: UTY=1; NAc | 11: UTY=1; NAc | 13: UTY=1; NAc | 16: UTY=1
+up	2	EZH1	1	CN | 10: EZH1=1; CN | 15: EZH1=1; CN | 16: EZH1=1; NAc | 1: EZH1=1
+up	3	SUZ12	1	CN | 10: SUZ12=1; CN | 15: SUZ12=1; CN | 16: SUZ12=1
+up	4	KDM6A	1	CN | 15: KDM6A=1; CN | 16: KDM6A=1
+up	5	KDM6B	1	CN | 16: KDM6B=1

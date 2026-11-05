@@ -1,0 +1,4 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	BDNF	1	EXC: BDNF=3; MBN: BDNF=5
+up	2	KL	1	EXC: KL=2; MSN: KL=3
+down	1	BDNF,CDKN1A,KL	3	EXC: BDNF=11,CDKN1A=6,KL=2

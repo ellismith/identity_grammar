@@ -1,0 +1,4 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	EED,EZH2	2	EXC: EED=12,EZH2=18
+up	2	EZH1	1	EXC: EZH1=18; INH: EZH1=7; MSN: EZH1=4; BC: EZH1=4; CER: EZH1=5; AST: EZH1=7
+up	3	SUZ12	1	EXC: SUZ12=7; MSN: SUZ12=3; BC: SUZ12=1; CER: SUZ12=7; MBN: SUZ12=1

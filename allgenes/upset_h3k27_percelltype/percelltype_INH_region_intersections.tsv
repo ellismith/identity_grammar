@@ -1,0 +1,3 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	EZH1	1	ACC: EZH1=1; dlPFC: EZH1=2; M1: EZH1=2; IPP: EZH1=6
+up	2	UTY	1	dlPFC: UTY=1

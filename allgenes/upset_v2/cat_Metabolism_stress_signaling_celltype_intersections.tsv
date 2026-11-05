@@ -1,0 +1,9 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	MTOR	1	EXC: MTOR=6; MSN: MTOR=2; OPC: MTOR=1
+up	2	ATF4	1	BC: ATF4=6; CER: ATF4=8; AST: ATF4=5
+up	3	ACLY	1	EXC: ACLY=5; AST: ACLY=3
+up	4	AHR	1	EXC: AHR=7
+up	5	TGFB1	1	MGL: TGFB1=2
+down	1	AHR	1	EXC: AHR=1; BC: AHR=1; OPC: AHR=1
+down	2	MTOR	1	MBN: MTOR=1; OLIG: MTOR=1
+down	3	ATF4	1	AST: ATF4=1

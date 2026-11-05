@@ -1,0 +1,3 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	EZH1	1	AST_0: EZH1=2; AST_2: EZH1=1; AST_6: EZH1=3; AST_8: EZH1=2; AST_13: EZH1=1; AST_14: EZH1=1; AST_16: EZH1=4
+down	1	KDM6A	1	AST_6: KDM6A=1; AST_11: KDM6A=1

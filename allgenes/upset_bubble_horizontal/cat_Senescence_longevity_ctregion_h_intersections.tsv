@@ -1,0 +1,6 @@
+direction	row	genes	n_genes	columns (per-gene counts)
+up	1	BDNF	1	EXC_ACC: BDNF=1; EXC_dlPFC: BDNF=1; EXC_M1: BDNF=2; EXC_IPP: BDNF=1; MBN_MB: BDNF=5
+up	2	KL	1	EXC_dlPFC: KL=1; EXC_HIP: KL=1; MSN_CN: KL=1; MSN_NAc: KL=2
+down	1	BDNF	1	EXC_ACC: BDNF=2; EXC_dlPFC: BDNF=8; EXC_IPP: BDNF=5
+down	2	CDKN1A	1	EXC_dlPFC: CDKN1A=4; EXC_M1: CDKN1A=2; EXC_IPP: CDKN1A=2
+down	3	KL	1	EXC_EC: KL=2

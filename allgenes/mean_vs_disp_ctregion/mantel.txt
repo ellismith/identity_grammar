@@ -1,0 +1,5 @@
+Mantel test, Spearman r between condition-similarity matrices (mean vs dispersion)
+shared conditions: 32
+r = 0.129
+one-sided permutation p = 0.006997 (2000 perms)
+r > 0: conditions that look alike in mean age effects also look alike in dispersion age effects.

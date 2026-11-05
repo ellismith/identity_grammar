@@ -1,0 +1,8 @@
+direction	row	genes	n_genes	columns (per-gene counts)
+up	1	MAPT	1	MSN: MAPT=5; BC: MAPT=3; CER: MAPT=6; MBN: MAPT=2; AST: MAPT=1; OLIG: MAPT=9
+up	2	CTNNB1	1	EXC: CTNNB1=4; AST: CTNNB1=2; OLIG: CTNNB1=1
+up	3	GSK3B	1	OLIG: GSK3B=9
+down	1	GSK3B	1	EXC: GSK3B=12; CER: GSK3B=7; OPC: GSK3B=1
+down	2	RCOR1	1	EXC: RCOR1=2
+down	3	CTNNB1	1	BC: CTNNB1=1
+down	4	MAPT	1	MBN: MAPT=2

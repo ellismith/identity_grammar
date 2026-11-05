@@ -1,0 +1,3 @@
+direction	row	genes	n_genes	columns (per-gene counts)
+up	1	SS18L1	1	EXC: SS18L1=20; INH: SS18L1=4; MSN: SS18L1=11; BC: SS18L1=3; CER: SS18L1=9; AST: SS18L1=2
+up	2	ACTL6B	1	EXC: ACTL6B=1; MSN: ACTL6B=6; BC: ACTL6B=2; CER: ACTL6B=7

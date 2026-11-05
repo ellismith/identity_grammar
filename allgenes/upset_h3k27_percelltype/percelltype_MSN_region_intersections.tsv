@@ -1,0 +1,3 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	KDM6A,KDM6B,SUZ12	3	CN: KDM6A=2,KDM6B=1,SUZ12=3
+up	2	EZH1,UTY	2	CN: EZH1=3,UTY=6; NAc: EZH1=1,UTY=6

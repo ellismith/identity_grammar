@@ -1,0 +1,3 @@
+direction	column	genes	n_genes	rows (per-gene counts)
+up	1	KDM6A	1	OLIG_3: KDM6A=1; OLIG_4: KDM6A=1; OLIG_5: KDM6A=1; OLIG_6: KDM6A=3; OLIG_9: KDM6A=1
+down	1	KDM6A	1	OLIG_2: KDM6A=1

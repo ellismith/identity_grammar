@@ -1,0 +1,27 @@
+gene set: 66 genes (66 with Ensembl IDs) from /scratch/easmit31/prc2/allgenes/prc2_genes_v2.txt
+DEG table: 313,576 rows; max age_lfsr = 0.05
+mean side: 1,425 significant gene x subtype x region rows; 55 of 66 genes hit
+DGLM: 12 cell-type files under /scratch/easmit31/dispersion/dglm/disp_age__mask1_915_300c_q0.2
+  GABAergic_neurons        -> INH : 5,515 gene-set rows, 9 regions, 26 cell_type label(s) e.g. ['GABAergic_neurons_0', 'GABAergic_neurons_1', 'GABAergic_neurons_10']
+  astrocytes               -> AST : 3,439 gene-set rows, 10 regions, 15 cell_type label(s) e.g. ['astrocytes_0', 'astrocytes_1', 'astrocytes_11']
+  basket_cells             -> BC  : 608 gene-set rows, 1 regions, 13 cell_type label(s) e.g. ['basket_cells_0', 'basket_cells_1', 'basket_cells_10']
+  cerebellar_neurons       -> CER : 537 gene-set rows, 1 regions, 10 cell_type label(s) e.g. ['cerebellar_neurons_0', 'cerebellar_neurons_1', 'cerebellar_neurons_2']
+  ependymal_cells          -> EPEN: 342 gene-set rows, 4 regions, 10 cell_type label(s) e.g. ['ependymal_cells_10', 'ependymal_cells_12', 'ependymal_cells_16']
+  glutamatergic_neurons    -> EXC : 5,211 gene-set rows, 8 regions, 30 cell_type label(s) e.g. ['glutamatergic_neurons_0', 'glutamatergic_neurons_1', 'glutamatergic_neurons_10']
+  medium_spiny_neurons     -> MSN : 1,286 gene-set rows, 2 regions, 18 cell_type label(s) e.g. ['medium_spiny_neurons_0', 'medium_spiny_neurons_1', 'medium_spiny_neurons_10']
+  microglia                -> MGL : 2,142 gene-set rows, 10 regions, 16 cell_type label(s) e.g. ['microglia_0', 'microglia_1', 'microglia_10']
+  midbrain_neurons         -> MBN : 1,653 gene-set rows, 1 regions, 34 cell_type label(s) e.g. ['midbrain_neurons_0', 'midbrain_neurons_1', 'midbrain_neurons_10']
+  oligodendrocytes         -> OLIG: 4,194 gene-set rows, 10 regions, 12 cell_type label(s) e.g. ['opc-olig_0', 'opc-olig_1', 'opc-olig_10']
+  opc                      -> OPC : 901 gene-set rows, 10 regions, 2 cell_type label(s) e.g. ['opc-olig_12', 'opc-olig_13']
+  vascular_cells           -> VASC: 4,071 gene-set rows, 10 regions, 20 cell_type label(s) e.g. ['vascular_cells_0', 'vascular_cells_1', 'vascular_cells_10']
+  dispersion gene-set rows with mash_lfsr < 0.05: 1,149 of 29,899
+  dispersion gene-set rows with mash_lfsr < 0.2: 5,396 of 29,899
+regions in DEG table: ['ACC', 'CN', 'EC', 'HIP', 'IPP', 'M1', 'MB', 'NAc', 'dlPFC', 'lCb', 'mdTN']
+regions in DGLM:      ['ACC', 'CN', 'EC', 'HIP', 'IPP', 'M1', 'MB', 'NAc', 'dlPFC', 'lCb', 'mdTN']
+conditions entering similarity (>= 3 nonzero genes): mean 39, dispersion 58
+Mantel test, Spearman r between condition-similarity matrices (mean vs dispersion)
+shared conditions: 32
+r = 0.129
+one-sided permutation p = 0.006997 (2000 perms)
+r > 0: conditions that look alike in mean age effects also look alike in dispersion age effects.
+scatter: 60 genes with a significant effect on at least one side
